@@ -17,6 +17,7 @@ namespace MyFirstProject
             System.Console.WriteLine("Variables: {0}, {1}", a, b);
 
             var c = "label2";
+            
 
             System.Console.WriteLine("\n");
             System.Console.WriteLine("Value: {0}", c);
